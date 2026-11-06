@@ -13,3 +13,6 @@
 soap-scroll-studio/dist/frames/** linguist-generated=true
 soap-scroll-studio/dist/products.json linguist-generated=true
 soap-scroll-studio/dist/media.json linguist-generated=true
+soap-scroll-studio/dist/*.html linguist-vendored=false linguist-generated=false
+soap-scroll-studio/dist/*.css linguist-vendored=false linguist-generated=false
+soap-scroll-studio/dist/*.js linguist-vendored=false linguist-generated=false
