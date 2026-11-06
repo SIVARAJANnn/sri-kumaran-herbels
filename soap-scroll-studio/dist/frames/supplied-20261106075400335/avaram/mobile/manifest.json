@@ -1,0 +1,15 @@
+{
+  "id": "avaram",
+  "frameCount": 190,
+  "fps": 24,
+  "width": 1280,
+  "height": 720,
+  "durationSeconds": 7.916666666666667,
+  "basePath": "/frames/supplied-20261106075400335/avaram/mobile",
+  "poster": "/frames/supplied-20261106075400335/avaram/mobile/0001.webp",
+  "sourceKind": "user-supplied-google-flow-video",
+  "sourceIdentifier": "07a8ffef",
+  "preserveFullFrame": true,
+  "sourceAspectRatio": "16:9",
+  "optimizedFor": "mobile"
+}

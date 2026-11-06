@@ -1,0 +1,15 @@
+{
+  "id": "orange",
+  "frameCount": 190,
+  "fps": 24,
+  "width": 1280,
+  "height": 720,
+  "durationSeconds": 7.916666666666667,
+  "basePath": "/frames/supplied-20261106075400335/orange/mobile",
+  "poster": "/frames/supplied-20261106075400335/orange/mobile/0001.webp",
+  "sourceKind": "user-supplied-google-flow-video",
+  "sourceIdentifier": "442d7fae",
+  "preserveFullFrame": true,
+  "sourceAspectRatio": "16:9",
+  "optimizedFor": "mobile"
+}

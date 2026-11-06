@@ -1,0 +1,123 @@
+{
+  "batch": "supplied-20261106075400335",
+  "generatedAt": "2026-11-06T07:56:33.630Z",
+  "sourceDirectory": "C:/Users/Admin/Videos/kumaran herblels",
+  "sourceVideosUntouched": true,
+  "totalFrames": 2280,
+  "results": [
+    {
+      "id": "orange",
+      "sourceIdentifier": "442d7fae",
+      "sourceFile": "Botanical_soap_product_shot_anim…_442d7fae_1080p.mp4",
+      "fps": 24,
+      "variants": {
+        "landscape": {
+          "manifest": "/frames/supplied-20261106075400335/orange/desktop/manifest.json",
+          "frameCount": 190,
+          "bytes": 6503356
+        },
+        "portrait": {
+          "manifest": "/frames/supplied-20261106075400335/orange/mobile/manifest.json",
+          "frameCount": 190,
+          "bytes": 3451826
+        }
+      },
+      "sha256": "65ecfe3280c72e5fcdf0fc958db9b0ac573e853e41e79a05ca67ffe946ee9cf8"
+    },
+    {
+      "id": "avaram",
+      "sourceIdentifier": "07a8ffef",
+      "sourceFile": "Animate_soap_for_ad_07a8ffef_1080p.mp4",
+      "fps": 24,
+      "variants": {
+        "landscape": {
+          "manifest": "/frames/supplied-20261106075400335/avaram/desktop/manifest.json",
+          "frameCount": 190,
+          "bytes": 7918088
+        },
+        "portrait": {
+          "manifest": "/frames/supplied-20261106075400335/avaram/mobile/manifest.json",
+          "frameCount": 190,
+          "bytes": 4221646
+        }
+      },
+      "sha256": "024d740ca3faad0687cdddb9b98beebdc8d7654c285f780b1e8f0f6cd59a5a84"
+    },
+    {
+      "id": "charcoal",
+      "sourceIdentifier": "03ba9c29",
+      "sourceFile": "Animate_charcoal_soap_for_ad_03ba9c29_1080p.mp4",
+      "fps": 24,
+      "variants": {
+        "landscape": {
+          "manifest": "/frames/supplied-20261106075400335/charcoal/desktop/manifest.json",
+          "frameCount": 190,
+          "bytes": 5243820
+        },
+        "portrait": {
+          "manifest": "/frames/supplied-20261106075400335/charcoal/mobile/manifest.json",
+          "frameCount": 190,
+          "bytes": 2586182
+        }
+      },
+      "sha256": "4ab98a1dcc99210bcfe77453d7cf69467cf4390ff7152b29bd73f4a015f302e8"
+    },
+    {
+      "id": "sandal",
+      "sourceIdentifier": "74cc60e6",
+      "sourceFile": "Animate_sandalwood_soap_ad_74cc60e6_1080p.mp4",
+      "fps": 24,
+      "variants": {
+        "landscape": {
+          "manifest": "/frames/supplied-20261106075400335/sandal/desktop/manifest.json",
+          "frameCount": 190,
+          "bytes": 5110228
+        },
+        "portrait": {
+          "manifest": "/frames/supplied-20261106075400335/sandal/mobile/manifest.json",
+          "frameCount": 190,
+          "bytes": 2609346
+        }
+      },
+      "sha256": "1412e83caf0f9276929616752845337c492c4c72f099d0ce677fed3c79a21435"
+    },
+    {
+      "id": "aloe",
+      "sourceIdentifier": "2cd96fe2",
+      "sourceFile": "Animate_soap_for_ad_2cd96fe2_1080p.mp4",
+      "fps": 24,
+      "variants": {
+        "landscape": {
+          "manifest": "/frames/supplied-20261106075400335/aloe/desktop/manifest.json",
+          "frameCount": 190,
+          "bytes": 6266214
+        },
+        "portrait": {
+          "manifest": "/frames/supplied-20261106075400335/aloe/mobile/manifest.json",
+          "frameCount": 190,
+          "bytes": 3238140
+        }
+      },
+      "sha256": "b4d144fe62b0e8a6b2460bb66f624718572d9cb29f248f1985d3224f8889c51b"
+    },
+    {
+      "id": "kuppaimeni",
+      "sourceIdentifier": "4fc9cdf9",
+      "sourceFile": "Animate_soap_for_ad_4fc9cdf9_1080p.mp4",
+      "fps": 24,
+      "variants": {
+        "landscape": {
+          "manifest": "/frames/supplied-20261106075400335/kuppaimeni/desktop/manifest.json",
+          "frameCount": 190,
+          "bytes": 9104246
+        },
+        "portrait": {
+          "manifest": "/frames/supplied-20261106075400335/kuppaimeni/mobile/manifest.json",
+          "frameCount": 190,
+          "bytes": 4672588
+        }
+      },
+      "sha256": "8166d0466da4599df2464d43af7c88ffd2803a41bda3acab5d33e626942f21a4"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "orange",
+    "number": "01",
+    "name": "Orange",
+    "botanical": "Orange",
+    "line": "A little sunshine\nin your hands.",
+    "description": "A bright orange bar with a warm, sunlit character.",
+    "color": "#d77c32",
+    "light": "#f5dfcc",
+    "dark": "#6d371b"
+  },
+  {
+    "id": "avaram",
+    "number": "02",
+    "name": "Avarampoo",
+    "botanical": "Avaram flowers",
+    "line": "Rooted in earth.\nTouched by gold.",
+    "description": "An earthy brown bar, framed by the golden color of avaram flowers.",
+    "color": "#b68a2e",
+    "light": "#f1e8cb",
+    "dark": "#59421b"
+  },
+  {
+    "id": "charcoal",
+    "number": "03",
+    "name": "Charcoal",
+    "botanical": "Charcoal",
+    "line": "A deeper shade\nof everyday.",
+    "description": "Charcoal gray, a matte surface, and the beauty of handmade texture.",
+    "color": "#5f6c63",
+    "light": "#dce2dc",
+    "dark": "#1c2924"
+  },
+  {
+    "id": "sandal",
+    "number": "04",
+    "name": "Sandalwood",
+    "botanical": "Sandalwood",
+    "line": "Warmth,\nbeautifully simple.",
+    "description": "A golden bar in an atmosphere of amber, cream, and sandalwood.",
+    "color": "#b47b3d",
+    "light": "#eee0cc",
+    "dark": "#654121"
+  },
+  {
+    "id": "aloe",
+    "number": "05",
+    "name": "Aloe Vera",
+    "botanical": "Aloe vera",
+    "line": "A little green.\nA little stillness.",
+    "description": "The soft ivory bar. A botanical moment in shades of green.",
+    "color": "#47765b",
+    "light": "#dbe9dd",
+    "dark": "#183c2c"
+  },
+  {
+    "id": "kuppaimeni",
+    "number": "06",
+    "name": "Kuppaimeni",
+    "botanical": "Kuppaimeni",
+    "line": "A quieter kind\nof green.",
+    "description": "Olive tones and visible herbal flecks. Simple, tactile, handmade.",
+    "color": "#62794b",
+    "light": "#e3e8d8",
+    "dark": "#293a23"
+  }
+]

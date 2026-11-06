@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#6d371b">
+  <meta name="description" content="Explore six handmade herbal soaps from Sri Kumaran Herbals through a cinematic scrolling collection.">
+  <title>Sri Kumaran Herbals — Six botanical stories</title>
+  <link rel="stylesheet" href="/style.css">
+  <script type="module" src="/app.js"></script>
+</head>
+<body class="is-loading">
+  <div class="preloader" role="status" aria-label="Preparing the soap collection">
+    <div class="preloader-inner">
+      <p class="preloader-mark">Sri Kumaran<span>H E R B A L S</span></p>
+      <p class="preloader-caption">A moment for something natural.</p>
+      <div class="preloader-track"><i></i></div>
+      <span class="preloader-percent" aria-hidden="true">0%</span>
+      <button class="preloader-retry" hidden>Try again</button>
+    </div>
+  </div>
+  <a class="skip-link" href="#collection">Skip to the collection</a>
+  <header class="navigation">
+    <a href="#orange" class="brand" aria-label="Sri Kumaran Herbals home">
+      <svg viewBox="0 0 38 44" aria-hidden="true"><path d="M19 40V20M19 30C4 29 4 15 4 15c13-1 17 8 15 15ZM19 22c0-13 15-17 15-17s3 15-15 17Z"/></svg>
+      <span>SRI KUMARAN<small>H E R B A L S</small></span>
+    </a>
+    <nav class="nav-links" aria-label="Main navigation"><a href="#orange">The ritual</a><a href="#collection">The collection <span>↗</span></a></nav>
+    <button class="menu-button" aria-label="Open collection menu" aria-expanded="false" aria-controls="collection-menu"><span></span><span></span></button>
+  </header>
+  <nav class="collection-menu" id="collection-menu" aria-label="Choose a soap" hidden></nav>
+  <main id="stories" aria-label="Six soap stories"><div class="initial-message">Preparing the collection…</div></main>
+  <aside class="chapter-rail" aria-label="Story navigation"></aside>
+  <div class="chapter-position" aria-hidden="true"><span>01</span><i></i><small>06</small></div>
+  <div class="overall-progress" aria-hidden="true"><i></i></div>
+  <footer class="footer" id="collection">
+    <p class="eyebrow">THE COMPLETE COLLECTION</p>
+    <h2>Six botanicals.<br><em>One everyday ritual.</em></h2>
+    <div class="product-grid"></div>
+    <div class="footer-wordmark" aria-hidden="true">Naturally yours.</div>
+    <div class="footer-bottom"><span>Sri Kumaran Herbals</span><span>Handmade herbal bath soaps · 100 g</span><a href="#orange">Back to the beginning ↑</a></div>
+  </footer>
+  <div class="scene-status" role="status" aria-live="polite" hidden><span>Preparing this botanical…</span><button>Try again</button></div>
+  <noscript><style>.preloader{display:none}body.is-loading{overflow:auto}</style><p class="noscript">Please enable JavaScript to explore the six animated soap stories.</p></noscript>
+</body>
+</html>

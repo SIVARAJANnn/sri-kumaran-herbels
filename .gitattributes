@@ -1,0 +1,15 @@
+* text=auto
+*.mjs text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.jpg binary
+*.png binary
+*.webp binary
+*.mp4 binary
+soap-scroll-studio/dist/frames/** linguist-generated=true
+soap-scroll-studio/dist/products.json linguist-generated=true
+soap-scroll-studio/dist/media.json linguist-generated=true

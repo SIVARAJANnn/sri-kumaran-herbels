@@ -1,0 +1,13 @@
+{
+  "id": "avaram",
+  "variant": "landscape",
+  "frameCount": 120,
+  "fps": 15,
+  "width": 1280,
+  "height": 720,
+  "durationSeconds": 8,
+  "basePath": "/frames/avaram/avaram-1793891587000/landscape",
+  "sourceKind": "accepted-video",
+  "fit": "contain",
+  "preserveFullFrame": true
+}

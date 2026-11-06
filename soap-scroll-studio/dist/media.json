@@ -1,0 +1,26 @@
+{
+  "orange": {
+    "landscape": "/frames/supplied-20261106075400335/orange/desktop/manifest.json",
+    "portrait": "/frames/supplied-20261106075400335/orange/mobile/manifest.json"
+  },
+  "avaram": {
+    "landscape": "/frames/supplied-20261106075400335/avaram/desktop/manifest.json",
+    "portrait": "/frames/supplied-20261106075400335/avaram/mobile/manifest.json"
+  },
+  "charcoal": {
+    "landscape": "/frames/supplied-20261106075400335/charcoal/desktop/manifest.json",
+    "portrait": "/frames/supplied-20261106075400335/charcoal/mobile/manifest.json"
+  },
+  "sandal": {
+    "landscape": "/frames/supplied-20261106075400335/sandal/desktop/manifest.json",
+    "portrait": "/frames/supplied-20261106075400335/sandal/mobile/manifest.json"
+  },
+  "aloe": {
+    "landscape": "/frames/supplied-20261106075400335/aloe/desktop/manifest.json",
+    "portrait": "/frames/supplied-20261106075400335/aloe/mobile/manifest.json"
+  },
+  "kuppaimeni": {
+    "landscape": "/frames/supplied-20261106075400335/kuppaimeni/desktop/manifest.json",
+    "portrait": "/frames/supplied-20261106075400335/kuppaimeni/mobile/manifest.json"
+  }
+}

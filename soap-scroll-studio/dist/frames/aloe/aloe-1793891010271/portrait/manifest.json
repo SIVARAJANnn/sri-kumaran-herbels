@@ -1,0 +1,13 @@
+{
+  "id": "aloe",
+  "variant": "portrait",
+  "frameCount": 120,
+  "fps": 15,
+  "width": 720,
+  "height": 1280,
+  "durationSeconds": 8,
+  "basePath": "/frames/aloe/aloe-1793891010271/portrait",
+  "sourceKind": "accepted-video",
+  "fit": "contain",
+  "preserveFullFrame": true
+}

@@ -1,0 +1,26 @@
+{
+  "aloe": {
+    "landscape": "/frames/aloe/aloe-1793891010271/landscape/manifest.json",
+    "portrait": "/frames/aloe/aloe-1793891010271/portrait/manifest.json"
+  },
+  "avaram": {
+    "landscape": "/frames/avaram/avaram-1793891587000/landscape/manifest.json",
+    "portrait": null
+  },
+  "kuppaimeni": {
+    "landscape": null,
+    "portrait": null
+  },
+  "orange": {
+    "landscape": null,
+    "portrait": null
+  },
+  "sandal": {
+    "landscape": null,
+    "portrait": null
+  },
+  "charcoal": {
+    "landscape": null,
+    "portrait": null
+  }
+}

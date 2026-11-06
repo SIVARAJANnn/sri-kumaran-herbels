@@ -1,0 +1,12 @@
+# Dependencies, local configuration, and temporary build files
+**/node_modules/
+**/.work/
+**/.backups/
+**/.env
+**/.env.*
+!**/.env.example
+**/signed-out.jpg
+**/production-log.json
+*.log
+.DS_Store
+Thumbs.db

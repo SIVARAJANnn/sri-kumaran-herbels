@@ -1,0 +1,15 @@
+{
+  "name": "sri-kumaran-soap-scroll",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prepare": "node scripts/prepare-assets.mjs",
+    "dev": "node scripts/server.mjs",
+    "check": "node scripts/verify.mjs",
+    "frames": "node scripts/extract-frames.mjs",
+    "build:frames": "node scripts/build-supplied-sequences.mjs",
+    "check:media": "node scripts/check-media-pipeline.mjs"
+  },
+  "devDependencies": { "@ffmpeg-installer/ffmpeg": "1.1.0" }
+}

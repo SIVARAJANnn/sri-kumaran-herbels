@@ -1,0 +1,31 @@
+name: Verify project
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: soap-scroll-studio
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: soap-scroll-studio/package-lock.json
+      - name: Install tooling and prepare product assets
+        run: npm ci
+      - name: Check browser JavaScript syntax
+        run: node --check dist/app.js
+      - name: Verify product assets, sequences, and original video checksums
+        run: npm run check
+      - name: Exercise the media pipeline
+        run: npm run check:media
